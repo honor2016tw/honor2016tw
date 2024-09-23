@@ -1,6 +1,6 @@
 ### About me
 #### Honor
-- NTNU
+- NTNU EE
 - Keep learning CS & Science
 - Interested in Biology, Medicine
 
